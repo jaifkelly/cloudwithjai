@@ -1,8 +1,19 @@
-### hi, i'm jai 🌙☁️
+### hi, i'm jailene (jai) 👋
 
-> cloud engineer student 
-> exp. in software + systems engineering  
+i'm a full stack developer based in the US, with a passion for tech.
 
-[![My Skills](https://skillicons.dev/icons?i=react,cs,js,py,dotnet,postgres,nodejs,postman,html,css,md,jquery,bootstrap,linkedin,discord,instagram)](https://skillicons.dev)
+### working on 🛠️:
+* creating my website, be on the lookout!
+* a blog to share my process
+* BS in cloud computing
 
+### skillset 📦:
+[![My Skills](https://skillicons.dev/icons?i=react,cs,js,py,dotnet,postgres,nodejs,postman,html,css,md,jquery,bootstrap)](https://skillicons.dev)
 
+### fun facts ☁️:
+* truly enjoy sports and competition
+* music and arts lover
+* navy veteran
+
+### contact me 📲:
+quickest response: [email](jailenefkelly@gmail.com)
