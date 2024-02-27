@@ -5,7 +5,7 @@ i'm a full stack developer based in the US, with a passion for tech.
 ### working on 🛠️:
 ---
 * creating my website, be on the lookout!
-* a blog to share my process
+* a blog to share my learnings and processes
 * BS in cloud computing
 
 ### skillset 📦:
